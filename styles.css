@@ -1,0 +1,61 @@
+body {
+     background: url("https://astrofella.files.wordpress.com/2015/09/untitled_1977_private_collection_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+a:link {
+    color: deepskyblue;
+    font-family: 'Noto';
+}
+a:visited {
+    color: darkblue;
+    font-family: 'Noto';
+}
+a:hover{
+    color: deeppink;
+    font-family: 'Noto';
+}
+a:active {
+    color: lightpink;
+}
+
+h1 {
+    font-size: 40px;
+    color: black;
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+    background:skyblue;
+    width: 200px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    opacity: .7;
+}
+
+h2 {
+    font-size: 30px;
+    color: deepskyblue;
+    font-family: 'sans-serif';
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-family: 'Noto';
+}
+
+ol {
+    padding-left: 200px;
+    font-family: 'Noto';
+    font-size: 15px;
+}
+
+{
+/* mobile override styles go inside this section */
+@media (max-width: 768px) 
+    }
