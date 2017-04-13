@@ -58,4 +58,13 @@ ol {
 {
 /* mobile override styles go inside this section */
 @media (max-width: 768px) 
+     #pagewrap {
+            width: 94%;
+        }
+        #content {
+            width: 65%;
+        }
+        #sidebar {
+            width: 30%;
+        }
     }
